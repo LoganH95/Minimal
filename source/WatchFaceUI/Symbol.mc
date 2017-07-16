@@ -21,7 +21,7 @@ class Symbol {
 		if (Sys.getDeviceSettings().phoneConnected && !inverter) {
 			dc.drawBitmap(x, y, bluetooth);
 		} else if (Sys.getDeviceSettings().phoneConnected && inverter) {
-			dc.drawBitmap(x + 5, y + 2, invertedBluetooth);
+			dc.drawBitmap(x + 5, y + 1, invertedBluetooth);
 		}
 	}
 	

@@ -1,7 +1,5 @@
 using Toybox.Graphics as Gfx;
-using Toybox.System as Sys;
 using Toybox.Application as App;
-
 
 class Color {
     

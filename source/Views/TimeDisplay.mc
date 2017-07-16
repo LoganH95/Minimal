@@ -1,13 +1,10 @@
 using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 using Toybox.Lang as Lang;
-using Toybox.Time.Gregorian as Calendar;
-using Toybox.Application as App;
 using Toybox.WatchUi as Ui;
 
 class TimeDisplay {
 	hidden var width, height, font; 
-
 
 	function initialize() { 
 		 font = Ui.loadResource(Rez.Fonts.id_font);
@@ -32,7 +29,7 @@ class TimeDisplay {
 	    drawTime(dc, hourStringTens, hourStringOnes, minStringTens, minStringOnes); 
     }
     
-    function drawTime(dc, hourTens, hourOnes, minTens, minOnes) {
+    hidden function drawTime(dc, hourTens, hourOnes, minTens, minOnes) {
     	dc.setColor(Color.getHourColor(), Gfx.COLOR_TRANSPARENT);
 	    dc.drawText(width/8 + 5, 20, font, hourTens, Gfx.TEXT_JUSTIFY_CENTER);
 	    dc.drawText(width/8 * 3 + 5, 20, font, hourOnes, Gfx.TEXT_JUSTIFY_CENTER);
@@ -42,7 +39,7 @@ class TimeDisplay {
 	    dc.drawText(width/8 * 7 + 5, 20, font, minOnes, Gfx.TEXT_JUSTIFY_CENTER);
     }
     
-    function calculateHour() {
+    hidden function calculateHour() {
     	var time = Sys.getClockTime(); 
     	var mode = Sys.getDeviceSettings().is24Hour;
     	

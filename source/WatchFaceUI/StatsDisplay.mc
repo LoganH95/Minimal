@@ -1,5 +1,3 @@
-using Toybox.Graphics as Gfx;
-using Toybox.System as Sys;
 using Toybox.Lang as Lang;
 using Toybox.Time as Time;
 using Toybox.Time.Gregorian as Calendar;
@@ -7,7 +5,7 @@ using Toybox.Application as App;
 
 class StatsDisplay {
 
-	function drawDate(dc, x, y, font, justification) {
+	static function drawDate(dc, x, y, font, justification) {
 		var date = Calendar.info(Time.now(), Time.FORMAT_MEDIUM);
 		var dateFormat = App.getApp().getProperty("dateFormat");
 		var dateString; 
