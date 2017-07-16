@@ -1,0 +1,7 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="notifications_ID" filename= "notifications.png"/>
+    <bitmap id="bluetooth_ID" filename="bluetooth.png"/>
+    <bitmap id="invertedNotifications_ID" filename= "notifications_inverted.png"/>
+    <bitmap id="invertedBluetooth_ID" filename="bluetooth_inverted.png"/>
+</drawables>

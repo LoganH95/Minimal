@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="10" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="11" pc="268435503" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="12" pc="268435546" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="13" pc="268435589" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="16" pc="268435633" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="17" pc="268435637" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="18" pc="268435670" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="21" pc="268435674" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="22" pc="268435707" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="24" pc="268435766" symbol="drawBluetooth"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="28" pc="268435806" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="29" pc="268435810" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="30" pc="268435843" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="33" pc="268435847" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="34" pc="268435886" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="36" pc="268435951" symbol="drawNotification"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="40" pc="268435991" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="41" pc="268435995" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="42" pc="268436036" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="44" pc="268436077" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="45" pc="268436133" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="46" pc="268436144" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="49" pc="268436183" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="51" pc="268436227" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Symbol.mc" lineNum="52" pc="268436252" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/StatsDisplay.mc" lineNum="10" pc="268436297" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/StatsDisplay.mc" lineNum="11" pc="268436301" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/StatsDisplay.mc" lineNum="12" pc="268436345" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/StatsDisplay.mc" lineNum="13" pc="268436376" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/StatsDisplay.mc" lineNum="14" pc="268436376" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/StatsDisplay.mc" lineNum="15" pc="268436382" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/StatsDisplay.mc" lineNum="16" pc="268436458" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/StatsDisplay.mc" lineNum="17" pc="268436511" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/StatsDisplay.mc" lineNum="21" pc="268436590" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/StatsDisplay.mc" lineNum="22" pc="268436666" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/StatsDisplay.mc" lineNum="23" pc="268436719" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/StatsDisplay.mc" lineNum="26" pc="268436795" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="8" pc="268436819" symbol="getHourColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="9" pc="268436823" symbol="getHourColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="10" pc="268436854" symbol="getHourColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="11" pc="268436861" symbol="getHourColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="13" pc="268436878" symbol="getHourColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="15" pc="268436893" symbol="getHourColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="18" pc="268436897" symbol="getMinuteColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="19" pc="268436901" symbol="getMinuteColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="20" pc="268436932" symbol="getMinuteColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="21" pc="268436939" symbol="getMinuteColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="23" pc="268436956" symbol="getMinuteColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="25" pc="268436971" symbol="getMinuteColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="28" pc="268436975" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="29" pc="268436979" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="30" pc="268437010" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="31" pc="268437037" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="33" pc="268437079" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="35" pc="268437095" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="39" pc="268437099" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="40" pc="268437103" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="41" pc="268437134" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="42" pc="268437140" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="45" pc="268437156" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="49" pc="268437170" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="50" pc="268437174" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="51" pc="268437205" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="52" pc="268437211" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/WatchFaceUI/Color.mc" lineNum="54" pc="268437227" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="12" pc="268437242" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="13" pc="268437246" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="16" pc="268437290" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="17" pc="268437294" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="18" pc="268437313" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="20" pc="268437332" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="22" pc="268437345" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="23" pc="268437355" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="24" pc="268437365" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="25" pc="268437403" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="27" pc="268437441" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="28" pc="268437470" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="29" pc="268437499" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="30" pc="268437537" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="32" pc="268437575" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="35" pc="268437598" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="36" pc="268437602" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="37" pc="268437643" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="38" pc="268437702" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="40" pc="268437767" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="41" pc="268437808" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="42" pc="268437873" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="45" pc="268437939" symbol="calculateHour"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="46" pc="268437943" symbol="calculateHour"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="47" pc="268437960" symbol="calculateHour"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="49" pc="268437983" symbol="calculateHour"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="50" pc="268438009" symbol="calculateHour"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="52" pc="268438027" symbol="calculateHour"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="53" pc="268438053" symbol="calculateHour"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/TimeDisplay.mc" lineNum="55" pc="268438071" symbol="calculateHour"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="9" pc="268438081" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="10" pc="268438085" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="14" pc="268438104" symbol="onLayout"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="20" pc="268438109" symbol="onShow"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="24" pc="268438114" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="25" pc="268438118" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="26" pc="268438132" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="27" pc="268438152" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="30" pc="268438173" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="31" pc="268438177" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="32" pc="268438223" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="38" pc="268438236" symbol="onHide"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="42" pc="268438241" symbol="onExitSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/MinimalView.mc" lineNum="46" pc="268438246" symbol="onEnterSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="12" pc="268438251" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="15" pc="268438256" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="16" pc="268438260" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="17" pc="268438279" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="19" pc="268438298" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="21" pc="268438339" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="22" pc="268438352" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="24" pc="268438376" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="25" pc="268438417" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="26" pc="268438458" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="27" pc="268438521" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="30" pc="268438544" symbol="checkInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="31" pc="268438548" symbol="checkInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="33" pc="268438567" symbol="checkInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="34" pc="268438585" symbol="checkInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/Views/Layout.mc" lineNum="36" pc="268438591" symbol="checkInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/App/MinimalApp.mc" lineNum="5" pc="268438595" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/App/MinimalApp.mc" lineNum="6" pc="268438599" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/App/MinimalApp.mc" lineNum="10" pc="268438618" symbol="onStart"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/App/MinimalApp.mc" lineNum="14" pc="268438623" symbol="onStop"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/App/MinimalApp.mc" lineNum="18" pc="268438628" symbol="getInitialView"/>
+<entry filename="/Users/LoganH/Documents/garmin/Minimal/source/App/MinimalApp.mc" lineNum="19" pc="268438632" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="62" method="true" symbol="checkConflictingColors"/>
+<entry id="59" method="true" symbol="resetScreen"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389735" symbol="layout"/>
+<entry id="57" method="true" symbol="drawBattery"/>
+<entry field="true" id="51" symbol="bluetooth"/>
+<entry id="47" method="true" symbol="checkInverted"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="64" method="true" symbol="drawDate"/>
+<entry field="true" id="28" symbol="dateString"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry field="true" id="29" symbol="opt_color_15"/>
+<entry field="true" id="32" symbol="opt_color_14"/>
+<entry field="true" id="31" symbol="opt_color_13"/>
+<entry field="true" id="35" symbol="opt_color_12"/>
+<entry field="true" id="33" symbol="opt_color_11"/>
+<entry field="true" id="23" symbol="opt_color_10"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389627" method="true" symbol="getBackgroundColor"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="36" symbol="AppName"/>
+<entry id="50" method="true" symbol="calculateHour"/>
+<entry field="true" id="24" symbol="opt_color_9"/>
+<entry field="true" id="25" symbol="opt_color_8"/>
+<entry field="true" id="40" symbol="opt_color_7"/>
+<entry field="true" id="41" symbol="opt_color_6"/>
+<entry field="true" id="53" symbol="notifications"/>
+<entry field="true" id="37" symbol="opt_color_5"/>
+<entry field="true" id="38" symbol="opt_color_4"/>
+<entry field="true" id="43" symbol="opt_color_3"/>
+<entry field="true" id="44" symbol="opt_color_2"/>
+<entry field="true" id="42" symbol="opt_color_1"/>
+<entry id="48" method="true" symbol="displayTime"/>
+<entry id="61" method="true" symbol="getMinuteColor"/>
+<entry field="true" id="27" symbol="bluetooth_title"/>
+<entry id="56" method="true" symbol="drawNotification"/>
+<entry field="true" id="21" symbol="LauncherIcon"/>
+<entry id="8389722" object="true" symbol="Layout"/>
+<entry id="49" method="true" symbol="drawTime"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="46" method="true" symbol="displayInfo"/>
+<entry field="true" id="39" symbol="notification_title"/>
+<entry id="60" method="true" symbol="getHourColor"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="20" symbol="invertedBluetooth_ID"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry field="true" id="19" symbol="invertedNotifications_ID"/>
+<entry id="10" object="true" symbol="StatsDisplay"/>
+<entry field="true" id="34" symbol="title_minute"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry field="true" id="52" symbol="invertedBluetooth"/>
+<entry field="true" id="58" symbol="time"/>
+<entry id="8388765" object="true" symbol="Symbol"/>
+<entry field="true" id="30" symbol="title_hour"/>
+<entry id="16" module="true" symbol="Layouts"/>
+<entry field="true" id="17" symbol="notifications_ID"/>
+<entry field="true" id="22" symbol="id_font"/>
+<entry field="true" id="18" symbol="bluetooth_ID"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="13" object="true" symbol="MinimalView"/>
+<entry id="11" object="true" symbol="Color"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="14" object="true" symbol="MinimalApp"/>
+<entry id="63" method="true" symbol="getSecondaryColor"/>
+<entry id="15" module="true" symbol="Menus"/>
+<entry field="true" id="54" symbol="invertedNotifications"/>
+<entry field="true" id="26" symbol="invertString"/>
+<entry id="12" object="true" symbol="TimeDisplay"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="45" symbol="stats"/>
+<entry id="55" method="true" symbol="drawBluetooth"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435806" name="x" stackId="2" startPc="268435633"/>
+<entry endPc="268435806" name="dc" stackId="1" startPc="268435633"/>
+<entry endPc="268435806" name="inverter" stackId="4" startPc="268435633"/>
+<entry endPc="268435806" name="y" stackId="3" startPc="268435633"/>
+<entry endPc="268435991" name="x" stackId="2" startPc="268435806"/>
+<entry endPc="268435991" name="dc" stackId="1" startPc="268435806"/>
+<entry endPc="268435991" name="inverter" stackId="4" startPc="268435806"/>
+<entry endPc="268435991" name="y" stackId="3" startPc="268435806"/>
+<entry endPc="268436296" name="percent" stackId="3" startPc="268435995"/>
+<entry endPc="268436297" name="dc" stackId="1" startPc="268435991"/>
+<entry endPc="268436297" name="width" stackId="2" startPc="268435991"/>
+<entry endPc="268436817" name="dateFormat" stackId="7" startPc="268436301"/>
+<entry endPc="268436817" name="date" stackId="6" startPc="268436301"/>
+<entry endPc="268436817" name="dateString" stackId="8" startPc="268436301"/>
+<entry endPc="268436818" name="x" stackId="2" startPc="268436297"/>
+<entry endPc="268436818" name="dc" stackId="1" startPc="268436297"/>
+<entry endPc="268436818" name="font" stackId="4" startPc="268436297"/>
+<entry endPc="268436818" name="justification" stackId="5" startPc="268436297"/>
+<entry endPc="268436818" name="y" stackId="3" startPc="268436297"/>
+<entry endPc="268436896" name="hourColor" stackId="1" startPc="268436823"/>
+<entry endPc="268436974" name="minuteColor" stackId="1" startPc="268436901"/>
+<entry endPc="268437098" name="invert" stackId="2" startPc="268436979"/>
+<entry endPc="268437099" name="color" stackId="1" startPc="268436975"/>
+<entry endPc="268437169" name="invert" stackId="1" startPc="268437103"/>
+<entry endPc="268437240" name="invert" stackId="1" startPc="268437174"/>
+<entry endPc="268437597" name="minStringOnes" stackId="9" startPc="268437294"/>
+<entry endPc="268437597" name="hourTens" stackId="4" startPc="268437294"/>
+<entry endPc="268437597" name="hourStringTens" stackId="6" startPc="268437294"/>
+<entry endPc="268437597" name="hour" stackId="2" startPc="268437294"/>
+<entry endPc="268437597" name="minTens" stackId="8" startPc="268437294"/>
+<entry endPc="268437597" name="hourOnes" stackId="3" startPc="268437294"/>
+<entry endPc="268437597" name="hourStringOnes" stackId="5" startPc="268437294"/>
+<entry endPc="268437597" name="minStringTens" stackId="10" startPc="268437294"/>
+<entry endPc="268437597" name="minOnes" stackId="7" startPc="268437294"/>
+<entry endPc="268437598" name="dc" stackId="1" startPc="268437290"/>
+<entry endPc="268437939" name="dc" stackId="1" startPc="268437598"/>
+<entry endPc="268437939" name="minTens" stackId="4" startPc="268437598"/>
+<entry endPc="268437939" name="hourTens" stackId="2" startPc="268437598"/>
+<entry endPc="268437939" name="minOnes" stackId="5" startPc="268437598"/>
+<entry endPc="268437939" name="hourOnes" stackId="3" startPc="268437598"/>
+<entry endPc="268438080" name="time" stackId="1" startPc="268437943"/>
+<entry endPc="268438080" name="mode" stackId="2" startPc="268437943"/>
+<entry endPc="268438109" name="dc" stackId="1" startPc="268438104"/>
+<entry endPc="268438173" name="dc" stackId="1" startPc="268438114"/>
+<entry endPc="268438236" name="dc" stackId="1" startPc="268438173"/>
+<entry endPc="268438543" name="symbol" stackId="3" startPc="268438260"/>
+<entry endPc="268438543" name="inverter" stackId="2" startPc="268438260"/>
+<entry endPc="268438544" name="dc" stackId="1" startPc="268438256"/>
+<entry endPc="268438594" name="background" stackId="1" startPc="268438548"/>
+<entry endPc="268438623" name="state" stackId="1" startPc="268438618"/>
+<entry endPc="268438628" name="state" stackId="1" startPc="268438623"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="Symbol">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBluetooth" parent="Symbol">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="inverter"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawNotification" parent="Symbol">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="inverter"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBattery" parent="Symbol">
+<param id="dc"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDate" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHourColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getMinuteColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="checkConflictingColors" parent="Color">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSecondaryColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBackgroundColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TimeDisplay">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="displayTime" parent="TimeDisplay">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTime" parent="TimeDisplay">
+<param id="dc"/>
+<param id="hourTens"/>
+<param id="hourOnes"/>
+<param id="minTens"/>
+<param id="minOnes"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="calculateHour" parent="TimeDisplay">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MinimalView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="MinimalView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="MinimalView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="MinimalView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="resetScreen" parent="MinimalView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="MinimalView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="MinimalView">
+<documentation><![CDATA[<div class="description"> The user has just looked at their watch. Timers and animations may be started here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="MinimalView">
+<documentation><![CDATA[<div class="description"> Terminate any active timers and prepare for slow updates.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Layout">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="displayInfo" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="checkInverted" parent="Layout">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MinimalApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="MinimalApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="MinimalApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="MinimalApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="95" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="254" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="333" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="404" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="435" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="474" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="505" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="536" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="743" parentId="globals" symbolId="Layout" type="class"/>
+<dataEntry offset="830" parentId="globals" symbolId="TimeDisplay" type="class"/>
+<dataEntry offset="925" parentId="globals" symbolId="MinimalApp" type="class"/>
+<dataEntry offset="996" parentId="globals" symbolId="Symbol" type="class"/>
+<dataEntry offset="1099" parentId="globals" symbolId="MinimalView" type="class"/>
+<dataEntry offset="1226" parentId="globals" symbolId="Color" type="class"/>
+<dataEntry offset="1344" parentId="globals" symbolId="StatsDisplay" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
