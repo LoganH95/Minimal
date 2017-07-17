@@ -5,22 +5,12 @@ class Color {
     
     static function getHourColor() {
     	var hourColor = App.getApp().getProperty("color_hour");
-    	if (hourColor == null) {
-			hourColor = Gfx.COLOR_WHITE;  
-		}
-		hourColor = checkConflictingColors(hourColor); 
-		
-    	return hourColor;
+    	return hourColor ? checkConflictingColors(hourColor) : checkConflictingColors(Gfx.COLOR_WHITE);
     }
     
     static function getMinuteColor() {
     	var minuteColor = App.getApp().getProperty("color_minute");
-    	if (minuteColor == null) {
-			minuteColor = Gfx.COLOR_RED;  
-		}
-		minuteColor = checkConflictingColors(minuteColor); 
-		
-    	return minuteColor; 
+    	return minuteColor ? checkConflictingColors(minuteColor) : Gfx.COLOR_RED;
     }
     
     static function checkConflictingColors(color) {
@@ -35,20 +25,10 @@ class Color {
     }
     
     static function getSecondaryColor() {
-    	var invert = App.getApp().getProperty("id_invert");
-    	if (!invert) {
-			return Gfx.COLOR_WHITE; 
-		}
-		else {
-			return Gfx.COLOR_BLACK; 
-		}
+		return App.getApp().getProperty("id_invert") ? Gfx.COLOR_BLACK : Gfx.COLOR_WHITE;
     }
     
     static function getBackgroundColor() {
-    	var invert = App.getApp().getProperty("id_invert");
-    	if (!invert) {
-			return Gfx.COLOR_BLACK;
-		}
-    	return Gfx.COLOR_WHITE; 
+    	return App.getApp().getProperty("id_invert") ? Gfx.COLOR_WHITE : Gfx.COLOR_BLACK;
     }
 }

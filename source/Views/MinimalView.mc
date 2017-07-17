@@ -3,10 +3,11 @@ using Toybox.Graphics as Gfx;
 
 class MinimalView extends Ui.WatchFace {
 	hidden var font; 
-	hidden var time  = new TimeDisplay();
+	hidden var time;
 	
     function initialize() {
         WatchFace.initialize();
+        time  = new TimeDisplay();
     }
 
     //! Update the view
